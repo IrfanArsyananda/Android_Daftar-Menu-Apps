@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Daftar Menu</string>
+    <string name="menu_name">Nama</string>
+    <string name="menu_price">Harga</string>
+    <string name="detail">Detail</string>
+    <string name="about">About</string>
+    <string name="exit">Exit</string>
+
+</resources>
